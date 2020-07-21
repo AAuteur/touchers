@@ -1,7 +1,16 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: #1e1e1e;
+    color: white;
 }
+
+.albums {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
 
 nav {
     width: 100%;
