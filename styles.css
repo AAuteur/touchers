@@ -9,6 +9,12 @@
     display: grid;
     grid-gap: 5px;
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+body {
+    background-color: #1e1e1e;
+    color: tomato;
 }
 
 
