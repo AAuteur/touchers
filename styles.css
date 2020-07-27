@@ -43,7 +43,6 @@ ul {
 ul li {
     list-style: none;
     display: inline-block;
-    float: left; 
     line-height: 100px;
 }
 
@@ -71,6 +70,10 @@ ul li a:hover {
     grid-template-rows: repeat(2, 1fr);
     padding: 5px;
     margin: 5px;
+}
+
+.band-logo {
+  position: relative;
 }
 
 .main-header {
