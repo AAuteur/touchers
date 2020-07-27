@@ -6,7 +6,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-
 }
 
 a {
@@ -15,13 +14,9 @@ a {
 
 body {
     background-color: #1e1e1e;
-    font-family: arial;
-    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
     margin: 0;
-}
-
-button {
-  display: none;
 }
 
 h2 {
@@ -49,7 +44,7 @@ ul {
 ul li {
     list-style: none;
     display: inline-block;
-     float: left; 
+    float: left; 
     line-height: 100px;
 }
 
@@ -81,25 +76,27 @@ ul li a:hover {
 .band-logo {
   width: 120px;
   align-self: center;
+  margin-bottom: 10px;
+  background-color: whitesmoke;
 }
 
 .main-header {
   padding-top: 2em;
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 .main-header,
 .nav{
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 .nav {
   margin-top: 1.5em;
   width: 100%;
   height: 100px;
-  background-color: white;
+  background-color: whitesmoke;
   color: tomato;
   font-size: 3;
 }
@@ -171,8 +168,3 @@ Media Queries
     margin-left: .75em;
     margin-right: .75em;
   }
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 258eeed649e4ed13561907bd8983cf25143778ec
