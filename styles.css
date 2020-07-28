@@ -87,6 +87,13 @@ ul li a:hover {
   width: 25%;
 }
 
+.logo-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 .main-header {
   padding-top: 2em;
   background-color: whitesmoke;
