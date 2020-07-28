@@ -80,6 +80,13 @@ ul li a:hover {
   margin: 15px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .main-header {
   padding-top: 2em;
   background-color: whitesmoke;
