@@ -97,6 +97,7 @@ ul li a:hover {
 .main-content {
   justify-content: center;
   margin: 25px;
+  text-align: center;
 }
 
 .main-header {
