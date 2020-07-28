@@ -76,6 +76,8 @@ ul li a:hover {
   position: relative;
   float: center;
   display: block;
+  padding: 30px;
+  margin: 15px;
 }
 
 .main-header {
