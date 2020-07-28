@@ -84,7 +84,7 @@ ul li a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 35%;
 }
 
 .logo-center {
@@ -97,7 +97,7 @@ ul li a:hover {
 .main-content {
   justify-content: center;
   margin: 25px;
-  text-align: center;
+  text-align: justify;
 }
 
 .main-header {
