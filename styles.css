@@ -94,6 +94,11 @@ ul li a:hover {
   width: 70%;
 }
 
+.main-content {
+  justify-content: center;
+  margin: 25px;
+}
+
 .main-header {
   padding-top: 2em;
   background-color: whitesmoke;
