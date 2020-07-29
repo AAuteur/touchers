@@ -4,8 +4,6 @@
 
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 a {
@@ -40,14 +38,14 @@ nav {
 }
 
 ul {
-    margin-left: 60px;
+    margin: 0;
     padding: 0;
 }
 
 ul li {
     list-style: none;
     display: inline-block;
-    line-height: 100px;
+    margin: 100px 0;
 }
 
 ul li a {
@@ -112,6 +110,7 @@ ul li a:hover {
 .main-header {
   padding-top: 2em;
   background-color: whitesmoke;
+  height: auto;
 }
 
 .main-header,
@@ -128,7 +127,6 @@ ul li a:hover {
   background: whitesmoke;
   color: tomato;
   font-size: 3;
-  text-align: justify;
 }
 
 .nav a {
