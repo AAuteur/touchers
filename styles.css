@@ -141,10 +141,6 @@ ul li a:hover {
   border-bottom-color: tomato;
 }
 
-/* .nav li {
-  padding: .5em;
-} */
-
 .main-nav {
     list-style-type: none;
 }
@@ -196,5 +192,5 @@ Media Queries
     margin-left: .75em;
     margin-right: .75em;
   }
-  
+
 }
