@@ -11,9 +11,9 @@ a {
 }
 
 body {
-    background-color: #1e1e1e;
+    background-color: whitesmoke;
     font-family: Lato, Tahoma, Trebuchet MS, Geneva, Verdana, sans-serif;
-    color: tomato;
+    color:black;
     margin: 0;
 }
 
@@ -60,44 +60,6 @@ ul li a {
 
 ul li a:hover {
   color: tomato;
-}
-
-/* ---------- 
-* Form CSS *
----------- */
-
-button {
-  padding: 15px 30px 20px 30px;
-  color: tomato;
-  font-size: 15px;
-  text-align: center;
-  font-style: normal;
-  border-radius: 5px;
-  width: 100%;
-  border: 1px solid whitesmoke;
-  border-width: 1px 1px 2px;
-  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
-  margin-bottom: 10px;
-}
-
-form {
-  max-width: 300px;
-  margin: 10px auto;
-  padding: 10px 25px;
-  background: transparent;
-  border-radius: 10px;
-}
-
-input[type="email"],
-input[type="text"] {
-  border: none;
-  height: auto;
-  margin: 0;
-  padding: 10px;
-  outline: 0;
-  width: 90%;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4) inset;
-  margin-bottom: 20px;
 }
 
 /* ----------
@@ -191,7 +153,7 @@ input[type="text"] {
 }
 
 .nav a:hover {
-  color: #0b0b0b;
+  color:#0b0b0b;
   border-bottom-color: tomato;
 }
 
@@ -214,7 +176,6 @@ Media Queries
 ---------- */
   
 @media (min-width: 769px) {
-
   .main-header {
     height: 200px;
     justify-content: flex-end;
