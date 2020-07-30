@@ -178,7 +178,6 @@ Media Queries
   }
 }
 
-
 @media (min-width: 1025px) {
   .main-header {
     flex-direction: row;
