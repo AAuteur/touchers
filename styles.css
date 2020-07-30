@@ -17,6 +17,11 @@ body {
     margin: 0;
 }
 
+
+figcaption {
+  font-size: smaller;
+}
+
 h1,
 h2,
 h3 {
@@ -78,6 +83,10 @@ ul li a:hover {
 .albums > div {
   align-self: center;
   justify-self: center;
+}
+
+.album-description {
+  text-align: justify;
 }
 
 .band-logo {
