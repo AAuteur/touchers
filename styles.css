@@ -99,6 +99,20 @@ ul li a:hover {
   width: 70%;
 }
 
+.lyrics {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 300px));
+  padding: 5px;
+  margin: 5px;
+  justify-content: space-around;
+}
+
+.lyrics > div {
+  align-self: center;
+  justify-self: center;
+}
+
 .main-content {
   justify-content: center;
   margin: 25px;
