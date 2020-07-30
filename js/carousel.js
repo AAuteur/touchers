@@ -3,6 +3,7 @@ showSlides();
    
 function showSlides() { 
     var i; 
+    
     var slides = document.getElementsByClassName("image-sliderfade");  
       
     var dots = document.getElementsByClassName("dot");  
