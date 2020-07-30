@@ -17,10 +17,16 @@ body {
     margin: 0;
 }
 
-h2 {
-  text-align: center;
+form {
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 25px;
+  background: transparent;
+  border-radius: 10px;
 }
 
+h1,
+h2,
 h3 {
   text-align: center;
 }
