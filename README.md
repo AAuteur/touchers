@@ -1,7 +1,7 @@
 # touchers
 A tribute website to one of my favorite music-making entities, the Touchers!
 
-This site is being built as a final capston project for Front End Web Development course of Code Louisville.
+This site is being built as a final capstone project for Front End Web Development course of Code Louisville.
 
 This website should pass the following Feature Requirements:
 - A navigation menu that collapses into a responsive mobile-friendly menu

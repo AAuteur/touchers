@@ -17,7 +17,6 @@ body {
     margin: 0;
 }
 
-
 figcaption {
   font-size: smaller;
 }
@@ -95,6 +94,10 @@ ul li a:hover {
   display: block;
   padding: 30px;
   margin: 15px;
+}
+
+.extra-reading {
+  text-align: center;
 }
 
 .center {
